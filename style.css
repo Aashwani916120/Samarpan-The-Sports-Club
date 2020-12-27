@@ -71,7 +71,7 @@ body{
     width: 684px;
     height: 624px;
     position: absolute;
-    right: 0px;
+    right: -10px;
 }
 ul{
     margin: 0;
@@ -147,7 +147,7 @@ li{
                     .rectangle2{
                         text-align: center;
                         background-color:#f4f4f4;
-                       display:inherit;
+                        display:inherit;
                     
 
                      
@@ -231,7 +231,7 @@ li{
 .text-footer{
     text-align: center;
     padding: 6px 0px;
-    /* margin-top: 21px; */
+    
     margin-bottom: 0px;
     background-color: #555;
     color: white;
