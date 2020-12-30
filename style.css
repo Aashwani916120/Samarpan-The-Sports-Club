@@ -183,6 +183,7 @@ li{
 .member-card{
     padding: 0px 72px;
     display: inline-block;
+    align: center;
 
 }
   .card-text{
